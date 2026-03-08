@@ -1,12 +1,3 @@
----
-base_model: /openbayes/input/input0/models_cache/models/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
-library_name: peft
-pipeline_tag: text-generation
-tags:
-- base_model:adapter:/openbayes/input/input0/models_cache/models/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
-- lora
-- transformers
----
 
 # DeepClima-R1：专业的中文语境气候文本分类工具
 
